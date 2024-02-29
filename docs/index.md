@@ -27,14 +27,11 @@
 
 # Autores
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
+* Aluno 1: Eduardo Honorio Friaça
+* Aluno 2: Gabriel Fuentes de Freitas Yamashita
+* Aluno 3: Felipe Jiao
+* Aluno 4: Matheus Marçal Ramos de Oliveira  
+* Aluno 5: Pedro Akira Cardoso Toma
 
 
 # Descrição do Projeto
