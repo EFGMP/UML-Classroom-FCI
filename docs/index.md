@@ -45,9 +45,10 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
 * Registro: base de controle de presença, para coletar os dados necessários, ou seja, as faltas.
 * Cadastro: para ser realizado tal registro, professores e alunos serão os atores do sistema, turma e matéria, serão fundamentais para cadastrá-los.
 * Acessibilidade: como a Escola pontuou na coleta de informações, será umas das prioridade que todas as pessoes envolvidas possam utilizar o sistema.
-
+* Acesso:
   ## Rquisitos não Funcionais
-
+*Relatório:
+*Notificação:
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
