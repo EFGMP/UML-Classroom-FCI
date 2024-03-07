@@ -78,4 +78,5 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+Engenharia de software
+Roger S. Pressman; Bruce R. Maxim
