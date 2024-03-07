@@ -39,8 +39,6 @@
 A Escola Infinito deseja alterar a forma de validação de presença dos alunos do Fundamental I, para que a mesma seja feita de forma mais eficiente e consistente, buscando praticidade, pois ainda utilizam a chamada em papel até os dias de hoje. Nossa equipe foi contatada para realizar a operação desejada, priorizando as exigências feitas pela Escola após coletarmos as informações necessárias para projetar uma solução, implementá-la e disponibilizá-la para os envolvidos.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-*&lt;Descrição dos requisitos&gt;*
-
   ## Requisitos Funcionais
   * Registro: base de controle de presença, para coletar os dados necessários, ou seja, as faltas.
   * Cadastro: para ser realizado tal registro, professores e alunos serão os atores do sistema, turma e matéria, serão fundamentais para cadastrá-los.
