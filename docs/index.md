@@ -41,6 +41,10 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
 # Análise de Requisitos Funcionais e Não-Funcionais
 *&lt;Descrição dos requisitos&gt;*
 
+## Requisitos Funcionais
+* Registro: base de controle de presença, para coletar os dados necessários, ou seja, as faltas.
+* Cadastro: para ser realizado tal registro, professores, alunos, turma e matéria, são informações centrais 
+
 # Diagrama de Atividades
 
 *&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
