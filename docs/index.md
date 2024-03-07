@@ -2,8 +2,8 @@
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
-<font size="+12"><center>
-*&lt;Sistema de Presença - Escola Infinito&gt;*
+<font size="+14"><center>
+*Sistema de Presença - Escola Infinito*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
