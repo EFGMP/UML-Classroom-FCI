@@ -43,7 +43,10 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
 
 ## Requisitos Funcionais
 * Registro: base de controle de presença, para coletar os dados necessários, ou seja, as faltas.
-* Cadastro: para ser realizado tal registro, professores, alunos, turma e matéria, são informações centrais 
+* Cadastro: para ser realizado tal registro, professores e alunos serão os atores do sistema, turma e matéria, serão fundamentais para cadastrá-los.
+* Acessibilidade: como a Escola pontuou na coleta de informações, será umas das prioridade que todas as pessoes envolvidas possam utilizar o sistema.
+
+  ## Rquisitos não Funcionais
 
 # Diagrama de Atividades
 
