@@ -55,7 +55,6 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
   * Desempenho
   * Backup/Preservação de dados
   * Interface de usuários
-  * Acessibilidade (para outros tipos de inaptidão)
   * Integração
 
 # Diagrama de Atividades
