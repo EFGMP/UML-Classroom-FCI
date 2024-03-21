@@ -44,10 +44,18 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
   * Cadastro: para ser realizado tal registro, professores e alunos serão os atores do sistema, turma e matéria, serão fundamentais para cadastrá-los.
   * Acessibilidade: como a Escola pontuou na coleta de informações, será umas das prioridades que todas as pessoas envolvidas possam utilizar o sistema.
   * Acesso em todo navegador/dispositivo: necessário para garantir que todos os usuários tenham acesso independente de onde acessam.
+  * Relatório de Faltas: a organização de todos os dados em si foi requisitada pelo cliente.
+  * Notificação: importante para alertar os usuários sobre as faltas.
 
   ## Requisitos não Funcionais
-  * Relatório de Faltas: a organização de todos os dados em si, não é necessária no começo do desenvolvimento.
-  * Notificação: tendo acesso ao sistema, a notificação em si não é necessária nesse primeiro momento.
+  São os requisitos base para um bom software, porém não serão a prioridade para o primeiro momento do projeto. Sendo eles:
+  * Segurança
+  * Confiabilidade
+  * Responsividade
+  * Backup/Preservação de dados
+  * Interface de usuários
+  * Acessibilidade (para outros tipos de inaptidão)
+  * Integração
 
 # Diagrama de Atividades
 
