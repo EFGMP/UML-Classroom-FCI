@@ -61,20 +61,20 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
 
 ![diagramadeatividade](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/5c48d1c1-771a-40f6-bced-8564bb21ec4c)
 
-Figura 1: Diagrama de atividades elaborado pelos alunos
+**Figura 1: Diagrama de atividades elaborado pelos alunos**
 
 # Diagrama de Casos de Uso
 
 ![diagramadeuso](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/0fc05c06-bf60-40cf-ac6c-476a042768a0)
 
-Figura 2: Diagrama de uso elabora pelos alunos
+**Figura 2: Diagrama de uso elabora pelos alunos**
 
 # Descrição dos Casos de Uso
 Após a elaboração dos diagramas e de discutir com o grupo, quatro casos de usos do projeto foram elaborados para serem utilizados da seguinte maneira: Fazer a chamada, Vizualizar a presença do aluno, Alterar a base de dados e Reprovar aluno.
 
-![Captura de tela 2024-04-02 174025](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/b031e391-0b0a-4806-982f-fa85f032ebd6)
+![Captura de tela 2024-04-02 174025 (1)](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/4fc9d669-a29c-447d-a85a-64e4a3cce6c8)
 
-Figura 3: Caso de uso - Fazer a chamada
+**Figura 3: Caso de uso - Fazer a chamada**
 
 
 # Diagrama de Sequência
