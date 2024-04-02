@@ -64,7 +64,7 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
 
 # Diagrama de Casos de Uso
 
-![diagramadeuso](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/0fc05c06-bf60-40cf-ac6c-476a042768a0)
+![diagramadeuso](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/59d57d07-6f15-4aef-83ba-59f7b757576e)
 
  > _Figura 2: Diagrama de casos de uso elaborado pelos alunos_
 
