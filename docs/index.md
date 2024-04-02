@@ -68,6 +68,7 @@ Figura 1: Diagrama de atividades elaborado pelos alunos
 Figura 2: Diagrama de uso elabora pelos alunos
 
 # Descrição dos Casos de Uso
+Após a elaboração dos diagramas e de discutir com o grupo, quatro casos de usos do projeto foram elaborados para serem utilizados da seguinte maneira: Fazer a chamada, Vizualizar a presença do aluno, Alterar a base de dados e Reprovar aluno.
 
 ![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/7cfd4366-2eaa-4697-a8bb-46ab779a7a7e)
 
