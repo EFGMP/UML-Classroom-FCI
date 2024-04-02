@@ -58,7 +58,7 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
 
 # Diagrama de Atividades
 
-![diagramadeatividade](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/5c48d1c1-771a-40f6-bced-8564bb21ec4c)
+![diagramadeatividade](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/70a91d73-d153-4e7c-ace4-20efb86145f9)
 
  > _Figura 1: Diagrama de atividades elaborado pelos alunos_
 
