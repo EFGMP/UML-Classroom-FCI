@@ -28,7 +28,7 @@
 # Autores
 
 * Aluno 1: Eduardo Honorio Friaça                 (RA: 10408959)
-* Aluno 2: Gabriel Fuentes de Freitas Yamashita   (RA: 
+* Aluno 2: Gabriel Fuentes de Freitas Yamashita   (RA: 10408876)
 * Aluno 3: Felipe Jiao                            (RA: 10408852)
 * Aluno 4: Matheus Marçal Ramos de Oliveira       (RA: 10409001)
 * Aluno 5: Pedro Akira Cardoso Toma               (RA: 10390171)
