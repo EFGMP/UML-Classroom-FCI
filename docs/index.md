@@ -76,14 +76,20 @@ Após a elaboração dos diagramas e de discutir com o grupo, quatro casos de us
 _Figura 3: Caso de uso - Fazer a chamada_
 
 
+
+
 ![2](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/cad5d7fa-e607-49be-8724-eb5c4c6d3117)
 
 _Figura 4: Caso de uso - Vizualizar a presença do aluno_
 
 
+
+
 ![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/9c8ef910-d292-45b8-9a9e-2cdb14e90073)
 
 _Figura 5: Caso de uso - Alterar a base de dados_
+
+
 
 
 ![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/2ea20588-db5f-43f0-b6f2-88454a1577e2)
