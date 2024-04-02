@@ -74,7 +74,7 @@ Após a elaboração dos diagramas e de discutir com o grupo, quatro casos de us
 
 Caso 1: Fazer a chamada
 
-![Captura_de_tela_2024-04-02_174025-transformed (2)](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/a2998218-558b-4fde-b635-4b1707423187)
+![Captura_de_tela_2024-04-02_174025-transformed (2) (1)](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/e2d2e5bc-47ab-4d1c-8d5f-4679d44925ab)
 
 > _Figura 3: Caso de uso - Fazer a chamada_
 >     
