@@ -69,7 +69,7 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
  > _Figura 2: Diagrama de casos de uso elaborado pelos alunos_
 
 # Descrição dos Casos de Uso
-Após a elaboração dos diagramas e de discutir com o grupo, quatro casos de usos do projeto foram elaborados para serem utilizados da seguinte maneira: Fazer a chamada, Vizualizar a presença do aluno, Alterar a base de dados e Reprovar aluno.
+Após a elaboração dos diagramas e discussões com o grupo, foram definidos quatro casos de uso fundamentais para o projeto. Estes casos foram concebidos para abordar as necessidades essenciais do sistema de validação de presença: realizar a chamada, visualizar a presença do aluno, atualizar a base de dados e reprovar o aluno. Cada um desses casos desempenha um papel crucial na implementação de um sistema completo e funcional, garantindo que todas as etapas do processo sejam contempladas de maneira eficiente.
 
 
 Caso de uso 1: Fazer a chamada
