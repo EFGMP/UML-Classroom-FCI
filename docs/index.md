@@ -60,16 +60,17 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
 # Diagrama de Atividades
 
 ![diagramadeatividade](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/5c48d1c1-771a-40f6-bced-8564bb21ec4c)
-
+Figura 1: Diagrama de atividades elaborado pelos alunos
 
 # Diagrama de Casos de Uso
 
 ![diagramadeuso](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/0fc05c06-bf60-40cf-ac6c-476a042768a0)
-
+Figura 2: Diagrama de uso elabora pelos alunos
 
 # Descrição dos Casos de Uso
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/7cfd4366-2eaa-4697-a8bb-46ab779a7a7e)
+
 
 # Diagrama de Sequência
 
