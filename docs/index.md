@@ -40,22 +40,21 @@ A Escola Infinito deseja alterar a forma de validação de presença dos alunos 
 
 # Análise de Requisitos Funcionais e Não-Funcionais
   ## Requisitos Funcionais
-  * Registro: base de controle de presença, para coletar os dados necessários, ou seja, as faltas.
-  * Cadastro: para ser realizado tal registro, professores e alunos serão os atores do sistema, turma e matéria, serão fundamentais para cadastrá-los.
-  * Acessibilidade: como a Escola pontuou na coleta de informações, será umas das prioridades que todas as pessoas envolvidas possam utilizar o sistema.
-  * Acesso em todo navegador/dispositivo: necessário para garantir que todos os usuários tenham acesso independente de onde acessam.
-  * Relatório de Faltas: a organização de todos os dados em si foi requisitada pelo cliente.
+  * Registro: base de controle de presença, para coletar os dados necessários, ou seja, as faltas;
+  * Cadastro: para ser realizado tal registro, professores e alunos serão os atores do sistema, turma e matéria, serão fundamentais para cadastrá-los;
+  * Acessibilidade: como a Escola pontuou na coleta de informações, será umas das prioridades que todas as pessoas envolvidas possam utilizar o sistema;
+  * Acesso em todo navegador/dispositivo: necessário para garantir que todos os usuários tenham acesso independente de onde acessam;
+  * Relatório de Faltas: a organização de todos os dados em si foi requisitada pelo cliente;
   * Notificação: importante para alertar os usuários sobre as faltas.
 
   ## Requisitos não Funcionais
   São os requisitos base para um bom software, porém não serão a prioridade para o primeiro momento do projeto. Sendo eles:
-  * Segurança
-  * Confiabilidade
-  * Responsividade
-  * Desempenho
-  * Backup/Preservação de dados
-  * Interface de usuários
-  * Integração
+  * Segurança: garantir medidas de prevenção para possíveis ameaças e vulnerabilidades;
+  * Confiabilidade: garantir a sincronização dos dados presentes na base de dados e disponibilizados para alteração;
+  * Responsividade: garantir um tempo de resposta adequado após a inserção de informações pelo usuário;
+  * Desempenho: o sistema deve ser ágil para alterar e buscar informações de alunos na base de dados, facilitando o seu uso;
+  * Backup/Preservação de dados: garantir a preservação dos dados (núvem/disco) para restauração, caso necessário;
+  * Interface de usuários: garantir uma interface intuitiva e de fácil utilização.
 
 # Diagrama de Atividades
 
@@ -76,12 +75,15 @@ Após a elaboração dos diagramas e de discutir com o grupo, quatro casos de us
 
 _Figura 3: Caso de uso - Fazer a chamada_
 
+![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/804f97ee-f10a-4afd-866f-7d62df3519b6)
 
 _Figura 4: Caso de uso - Vizualizar a presença do aluno_
 
+![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/9c8ef910-d292-45b8-9a9e-2cdb14e90073)
 
 _Figura 5: Caso de uso - Alterar a base de dados_
 
+![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/2ea20588-db5f-43f0-b6f2-88454a1577e2)
 
 _Figura 6: Caso de uso - Reprovar aluno_
 
