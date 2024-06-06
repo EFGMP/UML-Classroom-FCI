@@ -146,7 +146,7 @@ Ordem e interação dos objetos relacionados a secretaria:
 
 Comportamento interno relacionado ao professor:
 
-![Diagrama_de_Estado_Professor drawio](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/ebb3c2f1-0904-4746-b702-e92f8b5dcf6a)
+![WhatsApp Image 2024-06-06 at 17 54 50](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/0a6ebaf1-d10f-4820-947d-53231ced2da2)
 
 > _Figura 11: Diagrama de estado - Professor_
 
