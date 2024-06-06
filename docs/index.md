@@ -97,7 +97,7 @@ Caso de uso 2: Vizualizar a presença do aluno
 
 Caso de uso 3: Alterar a base de dados
 
-![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/9c8ef910-d292-45b8-9a9e-2cdb14e90073)
+![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/ab960b5a-093a-4e41-8cd9-9bae6c01baea)
 
 > _Figura 5: Caso de uso - Alterar a base de dados_
 
