@@ -111,41 +111,54 @@ Caso de uso 4: Reprovar aluno
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+Ordem e interação dos objetos relacionados ao professor:
 
 ![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/1fd523e4-50b1-40d3-ad7b-f57484bc47e7)
 
 > _Figura 7: Diagrama de sequência - Professor_
 
+
+Ordem e interação dos objetos relacionados ao responsável:
+
 ![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/1b59e8cd-c142-46de-ad7c-c8bdf2e3e813)
 
 > _Figura 8: Diagrama de sequência - Responsável_
 
+
+Ordem e interação dos objetos relacionados a secretaria:
+
 ![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/96ae2e5c-76c1-4ac1-89c9-d6750505c4f4)
 
-> _Figura 8: Diagrama de sequência - Secretaria_
+> _Figura 9: Diagrama de sequência - Secretaria_
 
 # Diagrama de Classes
 
 ![Diagrama_de_Classes1 drawio](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/34073d89-5918-4de9-b941-2140b41d5341)
 
-> _Figura 9: Diagrama de relacionamento entre classes para os seus atributos e operações_
+> _Figura 10: Diagrama de relacionamento entre classes para os seus atributos e operações_
 
 # Diagrama de Estados
 
 *&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
 
+Comportamento interno relacionado ao professor:
+
 ![Diagrama_de_Estado_Professor drawio](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/ebb3c2f1-0904-4746-b702-e92f8b5dcf6a)
 
-> _Figura 10: Diagrama de estado - Professor_
+> _Figura 11: Diagrama de estado - Professor_
 
-![Diagrama_de_Estado_Secretaria drawio](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/f746ca53-8232-4261-bd93-e0aede91b8e2)
-
-> _Figura 11: Diagrama de estado - Secretaria_
+Comportamento interno relacionado ao responsavel:
 
 ![Diagrama_de_Estado_Responsavel drawio](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/ce83a665-7d82-47d9-9706-ae8fefa5ed55)
 
-> _Figura 11: Diagrama de estado - Responsável_
+> _Figura 12: Diagrama de estado - Responsável_
+
+Comportamento interno relacionado a secretaria:
+
+![Diagrama_de_Estado_Secretaria drawio](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/f746ca53-8232-4261-bd93-e0aede91b8e2)
+
+> _Figura 13: Diagrama de estado - Secretaria_
+
 
 
 # Diagrama de Implantação
