@@ -166,7 +166,9 @@ Comportamento interno relacionado a secretaria:
 
 # Diagrama de Implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![WhatsApp Image 2024-06-06 at 19 50 50](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/bb450f10-48f9-47e3-b384-0373fb8fcf47)
+
+> _Figura 13: Diagrama para exibir o relacionamento de hardware e software no projeto_
 
 # Referências
 
