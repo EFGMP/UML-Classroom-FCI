@@ -97,14 +97,14 @@ Caso de uso 2: Vizualizar a presença do aluno
 
 Caso de uso 3: Alterar a base de dados
 
-![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/ab960b5a-093a-4e41-8cd9-9bae6c01baea)
+![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/985b67c9-0a48-4bbe-b1f9-ae946e02043c)
 
 > _Figura 5: Caso de uso - Alterar a base de dados_
 
 
 Caso de uso 4: Reprovar aluno
 
-![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/2ea20588-db5f-43f0-b6f2-88454a1577e2)
+![image](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/e9a3994d-a811-4db5-8860-159052ba3c22)
 
 > _Figura 6: Caso de uso - Reprovar aluno_
 
