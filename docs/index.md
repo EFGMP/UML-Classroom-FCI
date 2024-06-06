@@ -109,6 +109,7 @@ Caso de uso 4: Reprovar aluno
 > _Figura 6: Caso de uso - Reprovar aluno_
 
 
+
 # Diagrama de Sequência
 
 Ordem e interação dos objetos relacionados ao professor:
@@ -131,15 +132,17 @@ Ordem e interação dos objetos relacionados a secretaria:
 
 > _Figura 9: Diagrama de sequência - Secretaria_
 
+
+
 # Diagrama de Classes
 
 ![Diagrama_de_Classes1 drawio](https://github.com/EFGMP/UML-Classroom-FCI/assets/161724871/34073d89-5918-4de9-b941-2140b41d5341)
 
 > _Figura 10: Diagrama de relacionamento entre classes para os seus atributos e operações_
 
-# Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+
+# Diagrama de Estados
 
 Comportamento interno relacionado ao professor:
 
